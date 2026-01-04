@@ -198,21 +198,11 @@ Ce projet a permis de :
 * Correction des fichiers de configuration
 * Tests de connectivité entre les machines
 
----
 
-## 🔗 Dépôt GitHub
-
-Ce dépôt contient :
-
-* La documentation complète du projet
-* Les fichiers de configuration des agents
-* Les étapes d’installation et de déploiement
-
-[👉 **Lien du dépôt GitHub :**](https://github.com/fzlmn/zabbix-aws-monitoring.git) 
 
 ---
 
-📌 **Auteur :** Fatima Zahra
+📌 **Auteur :** Ait Lamine Fatima Zahra
 
 📌 **Encadrant :** Prof. Azeddine KHIAT
 
