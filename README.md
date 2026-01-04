@@ -202,7 +202,7 @@ Ce projet a permis de :
 
 ---
 
-📌 **Auteur :** Fatima Zahra
+📌 **Auteur :** Ait Lamine Fatima Zahra
 
 📌 **Encadrant :** Prof. Azeddine KHIAT
 
